@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: black !important;
+    background-color: black;
     font-family: Arial, sans-serif;
     font-size: 11pt;
 }
@@ -17,7 +17,7 @@ main {
     width: 250px;
     display: flex;
     flex-direction: row;
-    background-color: #000000AA;
+    background-color: black;
     color: white;
     padding: 10px;
     border-radius: 10px;
